@@ -2,7 +2,7 @@
 
 - **💻 Passionate Coder:** I love diving deep into binary arithmetic, developing random ideas I have into games, and experimenting with implementing game mechanics like Tetris and chess bots.
 
-- **🎮 Game Developer:** Currently working on these cool projects:
+- **🎮 ~~General~~NO Purpose Developer:** Currently working on these cool projects:
   - **Baconwaffle.py**: A script that finds the shortest path between two Wikipedia articles.
 
 - **🎨 Magic** (The Gathering, of course 😎): Designing custom cards based on Ultrakill characters, blending strategy with chaotic destruction.
