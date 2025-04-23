@@ -4,6 +4,7 @@
 
 - **🎮 ~~General~~NO Purpose Developer:** Currently working on these cool projects:
   - **Baconwaffle.py**: A script that finds the shortest path between two Wikipedia articles.
+  - **snaparg**: A wrapper for argparse that lets you suggest typo'd arguments
 
 - **🎨 Magic** (The Gathering, of course 😎): Designing custom cards based on Ultrakill characters, blending strategy with chaotic destruction.
 
