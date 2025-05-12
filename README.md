@@ -9,10 +9,14 @@
 
 - **Passionate Coder:** I love making anything and everything! I sometimes make projects I don't finish, but they're always there for when I'm ready to pick them back up!
 
-- **~~General~~NO Purpose Developer:** Currently working on these cool projects:
-  - **Baconwaffle.py**: A script that finds the shortest path between two Wikipedia articles.
-  - **snaparg**: A wrapper for argparse that lets you suggest typo'd arguments
+- **<del>General</del>NO Purpose Developer:** Currently working on these cool projects:
+  - [**Baconwaffle.py**](https://github.com/ArchooD2/KevinBacon): A script that finds the shortest path between two Wikipedia articles.
+  - [**snaparg**](https://github.com/ArchooD2/snaparg): A wrapper for argparse that lets you suggest typo'd arguments
 
 - **Magic** (The Gathering, of course): Designing custom cards based on Ultrakill characters, blending strategy with chaotic destruction.
 
-Feel free to check out what I'm working on and say hi! :D
+Current Spotlight:
+
+# [Minesweeper Online!](https://github.com/ArchooD2/MinesweeperOnline)
+
+A minesweeper clone that I soon plan to make "better", but it's all written by myself :D
