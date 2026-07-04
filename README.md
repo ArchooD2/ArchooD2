@@ -10,7 +10,7 @@
 - **Passionate Coder:** I love making anything and everything! I sometimes make projects I don't finish, but they're always there for when I'm ready to pick them back up!
 
 - **<del>General</del>NO Purpose Developer:** Currently working on these cool projects:
-  - [**Baconwaffle.py**](https://github.com/ArchooD2/KevinBacon): A script that finds the shortest path between two Wikipedia articles.
+  - [**CGP**](https://github.com/ArchooD2/CGP): Crossword Game Protocol; a language spoken by Scrabble Bots!
   - [**snaparg**](https://github.com/ArchooD2/snaparg): A wrapper for argparse that lets you suggest typo'd arguments
 
 - **Magic** (The Gathering, of course): Designing custom cards based on Ultrakill characters, blending strategy with chaotic destruction.
